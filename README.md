@@ -1,4 +1,6 @@
 # Binary Pattern Generator from Integer Sequence
+by: Rodrigo Wuerdig and Matheus Bohrer
+
 This tool creates an binary-oriented representation of Integer sequences using Python and tkinter. It converts each integer into its binary representation, filling an bi-dimensional pattern where:
 
 0 follows s-s-s-s-s-...
