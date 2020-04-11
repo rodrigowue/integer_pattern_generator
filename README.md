@@ -12,3 +12,5 @@ This tool creates an Binary representation of Integers using Python and tkinter.
 <img src="10x10_example.png" width="50%" height="50%">
 
 The sequence presented on Fig. I is: 1, 1, 2, 3, 5, 7, 11, 15, 22, 30.
+
+The tool outputs a postscript file containing the output pattern.
