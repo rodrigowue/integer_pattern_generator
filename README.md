@@ -1,5 +1,8 @@
 # Binary Pattern Generator from Integer Sequence
-This tool creates an Binary representation of Integers using Python and tkinter. It converts each integer into its binary representatio filling an pattern on a bi-dimensional array.
+This tool creates an Binary representation of Integers using Python and tkinter. It converts each integer into its binary representation, filling an bi-dimensional pattern where:
+0 follows s-s-s-s-s-...
+1 follows -s-s-s-s-s...
+(s stands for space)
 
 **Fig. I - Representation of a 10x10 integer sequence**
 
